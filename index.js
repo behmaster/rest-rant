@@ -18,8 +18,5 @@ app.get("*", (req, res) => {
   res.render("error404");
 });
 
-// app.get("/new", (req, res) => {
-//   res.render("new");
-// });
 
 app.listen(process.env.PORT);
