@@ -5,6 +5,7 @@ module.exports = [
     state: "WA",
     cuisines: "Thai, Pan-Asian",
     pic: "/images/h-thai-ml-tables.avif",
+    yearFounded: "1999",
   },
   {
     name: "Coding Cat Cafe",
@@ -12,5 +13,6 @@ module.exports = [
     state: "AZ",
     cuisines: "Coffee, Baked Goods",
     pic: "/images/coffee-cat.jpeg",
+    yearFounded: "2004",
   },
 ];
